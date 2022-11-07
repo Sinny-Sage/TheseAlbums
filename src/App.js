@@ -8,7 +8,11 @@ const App = () => {
       <h1>Sinny's Indie Boxs</h1>
       <div>
         {Data.map((data) => {
-          return <div className="box">{data.title}</div>
+          return (
+            <div className="box" key={data.id}>
+              {data.title}
+            </div>
+          )
         })}
       </div>
     </div>

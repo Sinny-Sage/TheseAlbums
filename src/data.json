@@ -1,136 +1,159 @@
 [
   {
+    "id": 1,
     "title": "Harvey",
     "album": "Invitation to Her's",
     "artist": "Her's"
   },
   {
+    "id": 2,
     "title": "Mannies Smile",
     "length": "3:40",
     "album": "Invitation to Hers",
     "artist": "Hers"
   },
   {
+    "id": 3,
     "title": "She Needs Him",
     "length": "5:14",
     "album": "Invitation to Hers",
     "artist": "Hers"
   },
   {
+    "id": 4,
     "title": "Love on the Line (Call Now)",
     "length": "3:21",
     "album": "Invitation to Hers",
     "artist": "Hers"
   },
   {
+    "id": 5,
     "title": "Dont Think it Over",
     "length": "4:06",
     "album": "Invitation to Hers",
     "artist": "Hers"
   },
   {
+    "id": 6,
     "title": "Cool With You",
     "length": "6:15",
     "album": "Songs of Hers",
     "artist": "Hers"
   },
   {
+    "id": 7,
     "title": "Marcel",
     "length": "3:07",
     "album": "Songs of Hers",
     "artist": "Hers"
   },
   {
+    "id": 8,
     "title": "What Once Was",
     "length": "4:16",
     "album": "Songs of Hers",
     "artist": "Hers"
   },
   {
+    "id": 9,
     "title": "Dreaming",
     "length": "2:27",
     "album": "2",
     "artist": "Mac Demarco"
   },
   {
+    "id": 10,
     "title": "Freaking Out the Neighborhood",
     "length": "2:53",
     "album": "2",
     "artist": "Mac Demarco"
   },
   {
+    "id": 11,
     "title": "Ode to Viceroy",
     "length": "3:53",
     "album": "2",
     "artist": "Mac Demarco"
   },
   {
+    "id": 12,
     "title": "My Kind of Woman",
     "length": "3:10",
     "album": "2",
     "artist": "Mac Demarco"
   },
   {
+    "id": 13,
     "title": "The Way Youd Love Her",
     "length": "2:37",
     "album": "Another One",
     "artist": "Mac Demarco"
   },
   {
+    "id": 14,
     "title": "No Other Heart",
     "length": "2:54",
     "album": "Another One",
     "artist": "Mac Demarco"
   },
   {
+    "id": 15,
     "title": "Without Me",
     "length": "2:58",
     "album": "Another One",
     "artist": "Mac Demarco"
   },
   {
+    "id": 16,
     "title": "Helena Beat",
     "length": "4:36",
     "album": "Torches",
     "artist": "Foster The People"
   },
   {
+    "id": 17,
     "title": "Pumped Up Kicks",
     "length": "4:00",
     "album": "Torches",
     "artist": "Foster The People"
   },
   {
+    "id": 18,
     "title": "Call it What You Want",
     "length": "3:59",
     "album": "Torches",
     "artist": "Foster The People"
   },
   {
+    "id": 19,
     "title": "Dont Stop (Color On The Wall)",
     "length": "2:55",
     "album": "Torches",
     "artist": "Foster The People"
   },
   {
+    "id": 20,
     "title": "Are You What You Want to Be?",
     "length": "4:30",
     "album": "Super Model",
     "artist": "Foster The People"
   },
   {
+    "id": 21,
     "title": "Coming of Age",
     "length": "4:40",
     "album": "Super Model",
     "artist": "Foster The People"
   },
   {
+    "id": 22,
     "title": "Never Mind",
     "length": "4:40",
     "album": "Super Model",
     "artist": "Foster The People"
   },
   {
+    "id": 23,
     "title": "Best Friend",
     "length": "4:27",
     "album": "Super Model",
