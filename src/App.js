@@ -10,7 +10,12 @@ const App = () => {
         {Data.map((data) => {
           return (
             <div className="box" key={data.id}>
-              {data.title}
+              <strong>{data.title}</strong>
+              <br />
+              {data.album}
+              <br />
+              {data.artist}
+              <br />
             </div>
           )
         })}
